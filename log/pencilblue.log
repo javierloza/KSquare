@@ -4,3 +4,9 @@
 {"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-12-03T21:10:48.313Z"}
 {"level":"info","message":"PencilBlue: KSquare running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-12-03T21:10:48.506Z"}
 {"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-12-03T21:10:49.099Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-12-03T21:27:55.906Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-12-03T21:27:57.637Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-12-03T21:27:57.974Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-12-03T21:28:01.344Z"}
+{"level":"info","message":"PencilBlue: KSquare running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-12-03T21:28:01.524Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-12-03T21:28:02.342Z"}

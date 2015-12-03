@@ -19,9 +19,9 @@ module.exports = {
     "db": {
         "type": "mongo",
         "servers": [
-            "mongodb://bluepencilTest:test123@ds031883.mongolab.com:31883/bluepencil"
+            "mongodb://admin:admin123@ds061974.mongolab.com:61974/ksquarecms"
         ],
-        "name": "bluepencil",
+        "name": "ksquarecms",
         "writeConcern": 1
     },
     "cache": {
