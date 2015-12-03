@@ -1,0 +1,6 @@
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-12-03T21:10:44.296Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-12-03T21:10:45.353Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-12-03T21:10:45.749Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-12-03T21:10:48.313Z"}
+{"level":"info","message":"PencilBlue: KSquare running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-12-03T21:10:48.506Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-12-03T21:10:49.099Z"}
